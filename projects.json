@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "title": "Responsive Portfolio Website",
+      "description": "A personal website built using HTML, CSS, and JavaScript. It features responsive design, dark mode toggle, and interactive skill buttons.",
+      "link": "https://your-portfolio-link.com"
+    },
+    {
+      "title": "Task Manager App",
+      "description": "A to-do list web app with local storage, dynamic task filtering, and task prioritization using JavaScript.",
+      "link": "https://your-task-manager-link.com"
+    },
+    {
+      "title": "CSS Animation Gallery",
+      "description": "A showcase of creative CSS animations and transitions, including hover effects, loaders, and text animations.",
+      "link": "https://your-css-animation-link.com"
+    },
+    {
+      "title": "Media Player UI",
+      "description": "An HTML5-based custom media player interface featuring audio/video controls, progress bars, and responsive layout.",
+      "link": "https://your-media-player-link.com"
+    },
+    {
+      "title": "Dark/Light Mode Template",
+      "description": "A starter template with built-in dark/light theme toggling, saving preferences using localStorage.",
+      "link": "https://your-dark-light-template.com"
+    }
+  ]
+}
